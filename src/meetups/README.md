@@ -259,8 +259,6 @@ The following list includes **both countries and regions**, in alphabetic order.
 - California
   - Los Angeles - [Vue.js LA](https://www.meetup.com/VuejsLA/)
   - San Diego - [Vue SD](https://www.meetup.com/sandiegojs/)
-  - San Francisco - [Vue.sf](https://meetup.com/vue-sf)
-  - San Francisco - [San Francisco Vue.js Meetup](https://meetup.com/VuejsSF)
 - Colorado
   - Denver - [Denver Vue.js Meetup](https://meetup.com/Denver-Vue-js-Meetup)
 - Florida
